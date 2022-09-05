@@ -9,7 +9,7 @@ class Post:
     date_creation = None
 
 
-class Comment:
+class PostComment:
     email = None
     name = None
     content = None

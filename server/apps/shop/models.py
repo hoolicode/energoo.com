@@ -14,7 +14,7 @@ class Product:
     warranty = None
 
 
-class Size:
+class ProductSize:
     name = None
 
 
