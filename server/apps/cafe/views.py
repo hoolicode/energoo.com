@@ -1,0 +1,2 @@
+class ReservationView:
+    pass
